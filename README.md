@@ -1,0 +1,2 @@
+# GoToTeamGradMapsReader
+Читатель api карт
